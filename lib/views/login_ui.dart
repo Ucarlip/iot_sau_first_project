@@ -209,7 +209,7 @@ class _LoginUiState extends State<LoginUi> {
                     child: Text(
                       'Sign-up',
                       style: TextStyle(
-                        color: Colors.blue,
+                        color: const Color.fromARGB(255, 236, 3, 3),
                         fontWeight: FontWeight.bold,
                       ),
                     ),
